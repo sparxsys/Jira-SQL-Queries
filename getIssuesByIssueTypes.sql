@@ -1,4 +1,5 @@
 
+/*MySQL*/
 USE jira;
 
 -- List of issue types
